@@ -3,7 +3,7 @@
       "host": "localhost",
       "port": 3306,
       "user": "root",   
-      "password": "jumao1219as",
+      "password": "root",
      "database": "api_backend_boilerplate"
   },
   "secret": "jakegwapo123*", 
